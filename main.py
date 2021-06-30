@@ -3,7 +3,7 @@ import random
 upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lower_case = upper_case.lower()
 numbers = "1234567890"
-symbols = "!@#$%^&*()_+=-?><|}{\\][:`~"
+symbols = "!@#$%^&*()_+=-?><|}{\\][:`~'"
 
 upper_choose = input("Do You Want To Use Upper Case Letters In The Password y/n >>").lower()
 lower_choose = input("Do You Want To Use lower Case Letters In The Password y/n >>").lower()
